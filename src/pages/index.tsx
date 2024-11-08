@@ -12,7 +12,10 @@ export default function Home() {
       </Head>
       <main>
         <Section>
-          <Container></Container>
+          <Container>
+            <div></div>
+            <div></div>
+          </Container>
         </Section>
       </main>
     </>
